@@ -217,14 +217,6 @@ https://www.dropbox.com/scl/fi/mzwcfnqfj1iwzlyf2mbk3/lv_0_20240318213523.mp4?rlk
 #EXTM3U
 
 
-# ===== SOURCE 2 =====
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBiAsy1unTVYZl5NuExg_xvz6U4Tn-X5VZA0SBADoXsQ&s=10" group-title="Nasional",* DONASI PAKE DANA
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/http://github.com/lusianaputri/ularliermutarmuter/raw/refs/heads/main/VID-20260802-WA0007.mp4
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://wsrv.nl/?url=https://i.ibb.co.com/Xr7pbm5k/20260802-044420.jpg" group-title="Nasional",* DANA 0811-2003-7329
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/http://github.com/lusianaputri/ularliermutarmuter/raw/refs/heads/main/VID-20260802-WA0007.mp4
-
-
 #EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg" group-title="Nasional",GTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -522,12 +514,6 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7oXUlkWZEek-aVRktTmJ0ztMGmV2y4VF0FCIhsNC5EQ&s=10" group-title="Nasional",CNBC Indonesia (S2)
 http://202.169.224.202:8800/udp/239.4.1.4:1234
 
-
-#EXTINF:-1 tvg-id="019" tvg-name="019" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_mentaritv.png" group-title="Nasional",Mentari TV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=http://www.vidio.com/
-#EXTVLCOPT:http-origin=http://www.vidio.com
-http://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
 
 #EXTINF:-1 group-title="Nasional"  tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_daaitv.png", DAAI TV (S1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
